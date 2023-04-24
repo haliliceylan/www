@@ -4,8 +4,13 @@ module.exports = function (api) {
     ["@babel/preset-react"]
     ]
   const plugins = [];
+  const options = {
+    babelrc: false,
+    configFile: false
+  };
   return {
     presets,
-    plugins
+    plugins,
+    options
   };
 }
