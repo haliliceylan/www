@@ -14,8 +14,6 @@ package-pages:
 ci:
   -test -d node_modules && rm -rf node_modules
   npm ci
-  npx --no-install babel --no-babelrc -f src/scripts/bottles.jsx --out-file=/tmp/compileOut-1419075422.js
-  npx --no-install babel --no-babelrc -f src/scripts/package-bottles.jsx --out-file=/tmp/compileOut-2181051641.js
   hugo --source src --destination ../public --minify
 
 # builds the site
