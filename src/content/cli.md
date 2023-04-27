@@ -1,7 +1,7 @@
 ---
-title: "home"
+title: "Install tea"
 Description: "the next-generation, cross‐platform package manager"
-layout: "index"
+layout: "cli"
 menu: main
-weight: 1
+weight: 2
 ---
