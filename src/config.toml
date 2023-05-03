@@ -13,6 +13,13 @@ title = 'Equitable Open-Source for Web3'
     weight = 3
 
   [[menu.main]]
+    identifier = 'tea/cli'
+    name = 'tea/cli'
+    title = 'tea/cli'
+    url = 'https://github.com/teaxyz/cli'
+    weight = 1
+
+  [[menu.main]]
     identifier = 'product hunt'
     name = 'Product Hunt'
     title = 'product hunt'
