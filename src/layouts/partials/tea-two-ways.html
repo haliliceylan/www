@@ -30,16 +30,17 @@
     </div>
 
     <div class="dropdown">
-      <button onclick="toggleDropdown()" class="dropbtn hbtn-light hb-light-fill-right">
+      <button onclick="toggleDropdown(this)" class="dropbtn hbtn-light hb-light-fill-right">
         additional install options
-        <span id="arrow" class="arrow" style="font-size:16px;">&#8250;</span>
+        <span class="arrow" style="font-size:16px;">&#8250;</span>
       </button>
-      <div id="myDropdown" class="dropdown-content">
+      <div class="dropdown-content">
         <a href="https://docs.tea.xyz/getting-started/install-tea/without-installer#a-fancy-one-liner">fancy one-liner</a>
         <a href="https://docs.tea.xyz/getting-started/install-tea/without-installer#via-homebrew">hombrew</a>
         <a href="https://docs.tea.xyz/getting-started/install-tea/without-installer#via-docker">via docker</a>
       </div>
     </div>
+
   </div>
 </div>
 
@@ -147,9 +148,9 @@
 
 <script>
 
-  function toggleDropdown() {
-    var dropdown = document.getElementById("myDropdown");
-    var arrow = document.getElementById("arrow");
+  function toggleDropdown(dropdownButton) {
+    var dropdown = dropdownButton.nextElementSibling;
+    var arrow = dropdownButton.querySelector('.arrow');
     dropdown.classList.toggle("show");
     arrow.classList.toggle("rotated", dropdown.classList.contains("show"));
   }
@@ -168,5 +169,6 @@
       }
     }
   };
+
 
 </script>
