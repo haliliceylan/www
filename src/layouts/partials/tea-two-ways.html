@@ -17,13 +17,21 @@
     <p class="grid-gray text-center small twoway-boiler">And head over to <a class="install-link" href="https://www.producthunt.com/posts/tea">Product Hunt</a> for more info (and maybe give us an upvote, while you're at it).</p>
   </div>
   <div class="col-xl-6 col-lg-6 col-mg-6 col-sm-12 col-12 ps-5 pe-5">
-    <h3 class="text-center" style="font-size:28px; line-height:32px;">Copy our one-liner to your terminal</h3>
+    <h3 class="text-center" style="font-size:28px; line-height:32px;">Use our installer in your terminal</h3>
     <p class="text-center mb-4">Best for developers who are used to working with CLIs.</p>
     {{- partial "click-to-copy.html" . -}}
-    <p class="no-installer grid-gray text-center small twoway-boiler"><span class="tea">tea</span> is a stand&#8208;alone binary. See <a class="install-link" href="https://docs.tea.xyz/getting-started/install-tea/without-installer">our docs</a> for more installation methods, including&nbsp;<span class="tea brew-install no-break pe-2">brew install</span>&nbsp;.</p>
+    <p class="no-installer grid-gray text-center small twoway-boiler">Don&#39;t like installers? As per <a class="teal" href="https://docs.tea.xyz/getting-started/install-tea/without-installer">our docs</a>, you can also install tea via a fancy one-liner, brew install, or docker.</p>
+
+    <p class="text-center">system requirements:</p>
+    <div class="flex mb-4 reqs">
+      <span class="sys-req small">macOS &gt;= 11</span>
+      <span class="sys-req small">Linux glibc &gt;= 2.28</span>
+      <span class="sys-req small">WSL &gt;= 2</span>
+    </div>
+
     <div class="dropdown">
       <button onclick="toggleDropdown()" class="dropbtn hbtn-light hb-light-fill-right">
-        Additional Install Options
+        additional install options
         <span id="arrow" class="arrow" style="font-size:16px;">&#8250;</span>
       </button>
       <div id="myDropdown" class="dropdown-content">
@@ -32,11 +40,26 @@
         <a href="https://docs.tea.xyz/getting-started/install-tea/without-installer#via-docker">via docker</a>
       </div>
     </div>
-
   </div>
 </div>
 
 <style>
+
+  .reqs{
+    max-width: 450px;
+    margin-top: -10px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .sys-req{
+    color: white;
+    width: 32%;
+    text-align: center;
+    background-color: #373737;
+    border-radius: 3px;
+    font-family: "inter";
+  }
 
   .dropdown {
     display: flex;
@@ -110,7 +133,7 @@
   }
 
   .arrow {
-    transition: transform 0.3s;
+    transition: transform 0.2s;
     display: inline-block;
     margin-left: 5px;
   }
