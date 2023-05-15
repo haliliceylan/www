@@ -21,10 +21,63 @@
     <p class="text-center mb-4">Best for developers who are used to working with CLIs.</p>
     {{- partial "click-to-copy.html" . -}}
     <p class="no-installer grid-gray text-center small twoway-boiler"><span class="tea">tea</span> is a stand&#8208;alone binary. See <a class="install-link" href="https://docs.tea.xyz/getting-started/install-tea/without-installer">our docs</a> for more installation methods, including&nbsp;<span class="tea brew-install no-break pe-2">brew install</span>&nbsp;.</p>
+    <div class="dropdown mx-auto;">
+    <button onclick="toggleDropdown()" class="dropbtn">Additional Install Options</button>
+    <div id="myDropdown" class="dropdown-content">
+      <a href="#">fancy one-liner</a>
+      <a href="#">hombrew</a>
+      <a href="#">via docker</a>
+    </div>
+  </div>
   </div>
 </div>
 
 <style>
+
+  .dropdown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+
+  .dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    z-index: 2; /* Added z-index to keep the button above the dropdown */
+    min-width: 240px;
+    margin-bottom: 5px;
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    top: 100%; /* Added top property to position the dropdown below the button */
+    min-width: 240px;
+  }
+
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+
+  .dropdown-content a:hover {
+    background-color: #f1f1f1;
+  }
+
+  .show {
+    display: block;
+  }
 
   .twoway-boiler::selection,
   .install-link::selection,
@@ -50,3 +103,24 @@
   }
 
 </style>
+
+<script>
+
+  function toggleDropdown() {
+    var dropdown = document.getElementById("myDropdown");
+    dropdown.classList.toggle("show");
+  }
+
+  window.onclick = function(event) {
+    if (!event.target.matches('.dropbtn')) {
+      var dropdowns = document.getElementsByClassName("dropdown-content");
+      for (var i = 0; i < dropdowns.length; i++) {
+        var openDropdown = dropdowns[i];
+        if (openDropdown.classList.contains('show')) {
+          openDropdown.classList.remove('show');
+        }
+      }
+    }
+  };
+
+</script>
