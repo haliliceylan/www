@@ -1,8 +1,11 @@
 <div class="card card-thumbnail" style="width: 100%" data-name="{{- .name -}}" data-popularity="{{- .dl_count -}}" data-last_modified="{{- .last_modified -}}" data-description="{{- .desc -}}" data-maintainer="{{- .maintainer -}}">
   <a href="/+{{- lower .full_name -}}/">
     <div class="p-3">
-    <figure class="card-img-top" >
-      <img class="package-image" src="{{- .thumb_image_url -}}" alt="{{- .name -}}" style="width:100%; height:100%;">
+    <figure class="card-img-top">
+      <div class="placeholder" style="background-color: #1a1a1a; display: flex; align-items: center; justify-content: center;">
+        <i class="icon-tea-logo-iconasset-1 pulsate" style="color: #949494;"></i>
+        <img class="package-image" src="{{- .thumb_image_url -}}" onload="this.previousElementSibling.style.display='none';" alt="{{- .name -}}" style="width:100%; height:100%;">
+      </div>
       <article class="card-thumb-label p-3">
         <i class="icon-tea-logo-iconasset-1 lead" style="color:#1a1a1a;"></i>
         <h3 class="package-title mb-1">{{- .name -}}</h3>
@@ -33,3 +36,24 @@
   </div>
   </div>
 </div>
+
+<style>
+
+  @keyframes pulsate {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.pulsate {
+  animation: pulsate 2s infinite;
+}
+
+
+</style>
