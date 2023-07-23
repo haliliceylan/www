@@ -7,7 +7,7 @@ title = 'tea.xyz'
 [menu]
   [[menu.main]]
     identifier = 'docs'
-    name = 'Docs'
+    name = 'docs'
     title = 'docs'
     url = 'https://docs.tea.xyz'
     weight = 3
