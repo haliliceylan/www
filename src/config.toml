@@ -1,13 +1,13 @@
 baseURL = 'https://tea.xyz/'
 languageCode = 'en-us'
-title = 'Equitable Open-Source for Web3'
+title = 'tea.xyz'
 
 # menu links via config file
 
 [menu]
   [[menu.main]]
     identifier = 'docs'
-    name = 'Docs'
+    name = 'docs'
     title = 'docs'
     url = 'https://docs.tea.xyz'
     weight = 3

@@ -1,7 +1,9 @@
 ---
-title: "tea/gui (beta)"
+title: "tea/gui"
 Description: "The Open-Store for Open-Source"
 layout: "gui"
-menu: main
+menu:
+  main:
+    name: "tea/gui (beta)"
 weight: 1
 ---
