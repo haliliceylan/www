@@ -4,8 +4,10 @@ date: 2023-08-01
 categories: [open-source, web3]
 tags: [web3]
 draft: false
-featured_image: "/Images/blog/add-some-flavor.jpg"
+featured_image: "/Images/blog/web3-open-source-symbiosis.jpg"
 ---
+![Featured Image](/Images/blog/web3-open-source-symbiosis.jpg)
+
 The open-source movement has had a profound impact on the software industry, fostering a culture of knowledge-sharing and collective problem-solving. By promoting the open exchange of ideas and code, open source has enabled a vast community of developers worldwide to collaborate, innovate, and build upon each other's work. This spirit of openness has not only accelerated software development but also democratized access to technology, leveling the playing field for both established corporations and individual enthusiasts.
 
 In recent years, Web3 has emerged as a disruptive force, challenging the centralized nature of the traditional internet. Initially perceived as a chaotic frontier with its share of scams and unvetted projects, Web3 has matured into a more purposeful movement. With its focus on transparency, security, and user empowerment, Web3 aims to create a decentralized internet that prioritizes individual sovereignty over digital assets and data. By combining the best practices of open source with the principles of Web3, developers are laying the groundwork for a new paradigm of internet applications that promote trust and inclusivity.
