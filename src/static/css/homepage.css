@@ -12,6 +12,18 @@
     /*padding: 8.371vw 4.5vw;*/
   }
 
+  #email_52020276{
+    background-color: #1a1a1a !important;
+    border: none !important;
+    color: #ffffff !important;
+  }
+
+  #email_52020276:focus{
+    border: none !important;
+    box-shadow: none !important;
+    color: #ffffff !important;
+  }
+
 /* Brand Colors */
 
 .teal{color:#00ffd0;}
