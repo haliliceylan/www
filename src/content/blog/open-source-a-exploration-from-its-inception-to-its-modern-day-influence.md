@@ -4,9 +4,9 @@ date: 2023-08-03
 categories: [open-source]
 tags: [open-source]
 draft: false
-featured_image: "/Images/blog/web3-open-source-symbiosis.jpg"
+featured_image: "/Images/blog/open-source-exploration.jpg"
 ---
-![Featured Image](/Images/blog/web3-open-source-symbiosis.jpg)
+![Featured Image](/Images/blog/open-source-exploration.jpg)
 
 Open-source software has drastically transformed the technology landscape, acting as a cornerstone of global digital innovation. This movement is rooted in transparency, collective collaboration, and unrestricted access to a product's source code. As a result, open source has reshaped the contours of the software industry, fostering an environment conducive to shared knowledge and continuous innovation. But how did it come to be?
 
