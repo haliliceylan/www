@@ -1,26 +1,25 @@
 ---
 title: "Web3 For Open Source—9 Awesome Benefits"
 description: Web3 blockchain technology can benefit open-source developers by enabling them to get paid. Web3 also makes open-source software better
-date: 2023-08-22
+date: 2023-08-23
 categories: [open-source, web3]
 tags: [web3 for open-source]
 draft: false
 featured_image: "/Images/blog/web3-open-source-symbiosis.jpg"
 ---
-![Featured Image](/Images/blog/web3-open-source-symbiosis.jpg)
-
-# Web3 For Open Source—9 Awesome Benefits
+![Featured Image](/Images/blog/awesome-web3.jpg)
 
 Because you deserve to get paid.
 
-
-## TL;DR
+<div class="p-4" style="background-color:#252526; border-radius:5px;">
+<h2>TL;DR</h2>
 
 - Web3 solves key pain points for open-source developers
 
 - Open-source software can be improved by blockchain tech
 
 - Open source + web3 = ❤️
+</div>
 
 <br>
 
@@ -31,7 +30,8 @@ Open-source developers have been toiling away in obscurity at unpaid passion pro
 Web3 technologies are built on the same principles of decentralization and peer-to-peer networking that characterize open-source development. Being skeptical of new tech is relatable—but blockchain technology can confer many important benefits to open-source software and the open-source community.
 
 Let’s check out nine of these key benefits right now.
-
+<br>
+<br>
 ## 1. Own and control your work
 
 Decentralized technology enables developers to establish clear ownership rights over their projects. Developers can retain full control over their code and contributions to a project—without being subject to any restrictions by a centralized platform.
@@ -41,7 +41,8 @@ Software developers can tokenize their projects to establish project ownership a
 Developers leveraging web3 typically use smart contracts—code-based contracts that can execute automatically—to steward ownership over their work. Open-source developers can also use web3 to create decentralized repositories that are fully owned and controlled by a repository’s contributors.
 
 Another key benefit of a web3 protocol is that it provides protection against unwanted takeovers of open-source projects. Communities of contributors can sleep well at night knowing that they are safe from hostile actions by external parties.
-
+<br>
+<br>
 ## 2. Get paid
 
 Web3 technology can address the biggest pain point for open-source developers—getting paid. Open-source infrastructure plays a critical role in running the internet, yet open-source developers are overwhelmingly not compensated for their contributions.
@@ -61,7 +62,8 @@ Let’s take a look at all the ways that open-source developers can benefit fina
 - **Sell licensing agreements:** Smart contracts can support licensing agreements, with the terms of an agreement published to and secured by a blockchain.
 
 Web3 protocols enable more contributors around the world to be paid for their additions to an open-source project. Digital currencies readily support cross-border payments and can potentially democratize developers’ access to monetization opportunities. An open-source project using blockchain ledger technology can transparently track revenue and profit distribution.
-
+<br>
+<br>
 ## 3. Collaborate better
 
 Web3 supports decentralized development environments that can improve collaboration among open-source developers. Blockchain tech enables knowledge to be efficiently shared, perhaps unlocking technological breakthroughs or other untapped creativity.  
@@ -79,7 +81,8 @@ How exactly does web3 enable high-quality collaboration in the open-source commu
 - **Peer-to-peer collaboration:** Open-source developers can use web3 protocols to work directly with their peers, eliminating any need for a centralized platform or intermediary.
 
 - **No secrets:** Web3's transparent nature builds trust and facilitates open collaboration. All collaborative actions, decisions, and transactions can be recorded on a blockchain.
-
+<br>
+<br>
 ## 4. Leverage the power of community
 
 Web3 technologies empower open-source communities by putting community at the center of the development of a project. The decentralized nature of Web3 enables a democratic approach to the governance of an open-source project. A technology that’s developed under the auspices of web3 governance is well positioned to benefit every project contributor.
@@ -99,7 +102,8 @@ An open-source community using web3 can decentralize many aspects of a project�
 - Decision making
 
 An empowered community is an engaged community. Web3 tools and platforms can foster deep, meaningful engagement to create a sense of shared purpose and vision among a project’s developers.
-
+<br>
+<br>
 ## 5. Increase standardization and interoperability
 
 Web3 technology supports the development of shared standards and interoperable systems. The open and collaborative nature of blockchain dev environments enables developers to propose standards, debate them, and eventually adopt the same or similar standards across various technology platforms.
@@ -119,7 +123,8 @@ Which specific components of web3 tech are driving increased platform interopera
 - **Decentralized data marketplaces:** Marketplaces that support the decentralized sharing and sale of data support the development of standardized data formats and protocols.
 
 - **Interoperable identity solutions:** Web3 enables standardized identity solutions that can be used across different applications and development projects.
-
+<br>
+<br>
 ## 6. Innovate faster
 
 Open-source communities that embrace web3 are learning how to innovate faster. Decentralized development environments are fundamentally changing how software developers approach projects, enabling dev communities to efficiently share valuable knowledge, insights, and experience. Developers using web3 can have expansive freedom to experiment, innovate, and implement novel tech solutions.
@@ -133,7 +138,8 @@ How is web3 driving this accelerated rate of progress? Let’s get down into the
 - **Integration with new technologies:** The interoperability of web3 protocols supports integration with emerging technologies, which can accelerate developers’ rates of progress.
 
 - **Experimentation with governance models:** Developer communities leveraging web3 can choose to innovate on governance. Blockchain protocols support a wide variety of organizational structures that can foster dynamic collaboration.
-
+<br>
+<br>
 ## 7. Boost security
 
 Blockchain technology may feel scammy or untrustworthy, but the immutable nature of a blockchain can increase security in an open-source community. Blockchain networks that operate using many nodes worldwide are considered as the most decentralized—and are generally the most secure.
@@ -157,7 +163,8 @@ Let’s examine some specific ways that web3 is improving the security of develo
 - Decentralized technology projects are generally resistant to unwanted takeovers
 
 Blockchain tech is lauded for being exceptionally secure, and it can also protect user privacy. Permissioned blockchains may set customized user privileges, and blockchain developers can incorporate zero-knowledge proofs—enabling users to prove possession of information without revealing the information itself.
-
+<br>
+<br>
 ## 8. Access new funding sources
 
 Open-source developers can use web3 to access creative sources of capital. Web3 and open-source development are both synonymous with community, which can be leveraged to generate crowd-sourced funding. A technology development project that’s structured as a DAO and tokenized is well positioned to accept funding from a decentralized network of sources.  
@@ -175,26 +182,37 @@ Web3 can help developer communities to meet their funding needs in a variety of 
 - **Community sponsorship programs:** Project token holders or DAO members can sponsor specific initiatives within a tech development project based on their personal passions or interests.
 
 The inclusive nature of web3 enables more people from places everywhere to fund projects that matter to them. Web3 can potentially aggregate large pools of capital, which can be allocated to promising projects regardless of their size. Small open-source projects and individual developers can potentially use web3 to access funding more easily.
-
+<br>
+<br>
 ## 9. Work on what you love
 
 Web3 can be the catalyst that enables open-source developers to achieve full autonomy and work only on what they love. Open source and web3 already share many of the same values—prizing openness, collaboration, and shared ownership—but creating open-source software typically doesn’t pay the bills. Web3 provides a crucial incentive layer that can empower talented developers to forge their own paths.  
-
-___  
+<br>
+<hr>  
 <br>
 
 ## FAQs
 
 Friendly answers to your frequently asked questions.
 
-### How are open source and web3 different?
+<h3 class="faq-head">How are open source and web3 different? </h3>
 
 Open source refers to a licensing model that allows software code to be freely accessible, modified, and redistributed. Web3 is a term used to describe decentralized protocols powered by blockchain technology. Open source focuses on accessibility and collaboration, while Web3 emphasizes decentralization and online autonomy.
 
-### Is web3 safe for open-source development?
+<h3 class="faq-head">Is web3 safe for open-source development? </h3>
 
 Security considerations must be top priority for any open-source development project. Web3 enables decentralized control and increased transparency, although successful collaboration using web3 requires careful management, strong governance, and adherence to security best practices.
 
-### How can open-source developers start using web3?
+<h3 class="faq-head">How can open-source developers start using web3? </h3>
 
 Getting involved with web3 as an open-source developer starts with learning about web3 and blockchain tech. Developers can access online tutorials and documentation to understand decentralization, smart contracts, DAOs, and many more aspects of the technology. Web3 development communities and forums can provide valuable support and collaboration opportunities.
+
+<style>
+.faq-head{
+  font-size: 26px;
+}
+
+h1,h2,h3,h4,h5,h6{
+  text-transform: none !important;
+}
+</style>
