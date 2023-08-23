@@ -1,5 +1,5 @@
 ---
-title: "Web3 For Open Source—9 Awesome Benefits"
+title: "Web3 For Open Source—9 Awesome Benefits | tea.xyz"
 description: Web3 blockchain technology can benefit open-source developers by enabling them to get paid. Web3 also makes open-source software better
 date: 2023-08-23
 categories: [open-source, web3]
