@@ -5,7 +5,7 @@ date: 2023-08-23
 categories: [open-source, web3]
 tags: [web3 for open-source]
 draft: false
-featured_image: "/Images/blog/web3-open-source-symbiosis.jpg"
+featured_image: "/Images/blog/awesome-web3.jpg"
 ---
 ![Featured Image](/Images/blog/awesome-web3.jpg)
 
