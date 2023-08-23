@@ -13,6 +13,13 @@
 @font-face {
   font-family: "inter";
   src: url("/fonts/Inter-Regular.woff");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "inter";
+  src: url("/fonts/Inter-Bold.woff");
+  font-weight: bold;
 }
 
 @font-face {
@@ -105,7 +112,7 @@ a.nav-link:hover{
   border-bottom: 1px solid #00ffd0;
 }
 
-/* Breakpoint-Specific Typography 
+/* Breakpoint-Specific Typography
 
 @media only screen and (max-width: 576px) {
 

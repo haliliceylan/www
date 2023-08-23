@@ -19,3 +19,9 @@ title = 'tea.xyz'
 [taxonomies]
   category = "categories"
   tags = "tags"
+
+# Added Goldmark settings
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
