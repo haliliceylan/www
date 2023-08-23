@@ -13,6 +13,7 @@ featured_image: "/Images/blog/web3-open-source-symbiosis.jpg"
 
 Because you deserve to get paid.
 
+
 ## TL;DR
 
 - Web3 solves key pain points for open-source developers
@@ -20,6 +21,8 @@ Because you deserve to get paid.
 - Open-source software can be improved by blockchain tech
 
 - Open source + web3 = ❤️
+
+<br>
 
 Does cryptocurrency sound like a dirty word?
 
@@ -178,6 +181,7 @@ The inclusive nature of web3 enables more people from places everywhere to fund 
 Web3 can be the catalyst that enables open-source developers to achieve full autonomy and work only on what they love. Open source and web3 already share many of the same values—prizing openness, collaboration, and shared ownership—but creating open-source software typically doesn’t pay the bills. Web3 provides a crucial incentive layer that can empower talented developers to forge their own paths.  
 
 ___  
+<br>
 
 ## FAQs
 
