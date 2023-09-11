@@ -1,13 +1,13 @@
 ---
 title: "tea 1.0.0-alpha.1 | tea.xyz"
 description: 1.0.0-alpha.1 is a seminal release, we welcome feedback, especially from v0 early adopters.
-date: 2023-08-23
+date: 2023-09-11
 categories: [open-source, web3]
 tags: [web3 for open-source]
 draft: false
 featured_image: "/Images/blog/awesome-web3.jpg"
 ---
-![Featured Image](/Images/blog/awesome-web3.jpg)
+![Featured Image](/Images/blog/tea-release-cover-image.jpg)
 
 I have always practiced iterative development. I did it with <span class="orange tea codeword">brew</span> and every other open source project I’ve ever created and every job I’ve ever had (where I was allowed—Apple refused to let me :nerd_face:). I believe the only way to “find the fun”† in development is to try out your ideas and preferably with as large a community as possible. Thank you for your help in “finding the fun” with <span class="orange tea codeword">tea</span>. It’s been a very instructive process but now we’re ready for version one.
 
